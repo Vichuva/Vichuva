@@ -120,4 +120,44 @@ Automated extraction of structured data from cheque images with real-world noise
   <img src="https://img.shields.io/badge/Clean%20Code-2E8B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Documentation-4B5563?style=for-the-badge"/>
 </p>
+---
+
+## 💼 Work Experience
+
+### 🏢 National Informatics Centre (NIC) — *AI/ML Intern*
+📍 Government of India  
+📅 May 2024 – July 2024  
+
+- Developed a **computer vision–based vehicle detection system** for automated traffic monitoring  
+- Built an **explainable AI pipeline** for COVID-19 detection using X-ray images  
+- Focused on model interpretability, reliability, and real-world deployment readiness  
+
+---
+
+### 🏭 Hyundai Motor India Limited — *Data Analytics Intern*
+📅 December 2024  
+
+- Implemented **data filtering pipelines** for large-scale vehicle sensor datasets  
+- Worked with structured databases and analytics tools to extract actionable insights  
+- Built **interactive dashboards** for real-time analytics and visualization  
+
+---
+
+### 🏦 Intellect Design Arena — *Software Engineering Intern*
+📅 May 2025 – June 2025  
+
+- Performed **manual and mobility testing** to ensure application quality  
+- Automated selected test cases to reduce manual QA effort  
+- Gained hands-on experience with enterprise-grade software systems  
+---
+
+## 🧾 Patent & Research
+
+### 🧠 Oil Spill Detection in Marine Ecosystem Using AIS and Satellite Datasets
+📜 **Patent Filed & Published — 2025**
+
+- Designed a system combining **satellite SAR imagery** and **AIS vessel tracking data**  
+- Applied **CNN-based analysis** for oil spill detection and anomaly identification  
+- Focused on **early detection, environmental impact reduction, and accountability**  
+
 
