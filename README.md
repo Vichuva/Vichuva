@@ -1,6 +1,6 @@
 # Hi 👋 I'm S Viswanath
 
-🎓 Computer Science & Engineering Student @ VIT Chennai (CGPA: 8.23)  
+🎓 Computer Science & Engineering Student @ VIT Chennai 
 💻 Software Developer | AI/ML Engineer | Computer Vision & RAG Systems  
 📍 Chennai, India  
 
