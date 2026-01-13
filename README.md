@@ -17,7 +17,7 @@ I build **intelligent, production-ready systems** that combine
 <a href=https://www.linkedin.com/in/viswanath-link/>
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:viswanath2k5@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
