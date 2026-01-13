@@ -10,7 +10,7 @@ I build **intelligent, production-ready systems** that combine
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&center=true&vCenter=true&width=780&lines=AI+%26+ML+Engineer;Computer+Vision+Developer;RAG+%26+LLM+Systems;Backend+%26+Cloud+Engineering;Turning+Ideas+Into+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&center=true&vCenter=true&width=780&lines=Backend+%26+Cloud+Engineering;AI+%26+ML+Engineer;RAG+%26+LLM+Systems;Computer+Vision+Developer;Turning+Ideas+Into+Impact" />
 
 <br/><br/>
 
