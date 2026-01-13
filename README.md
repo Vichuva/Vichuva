@@ -134,14 +134,6 @@ Automated extraction of structured data from cheque images with real-world noise
 
 ---
 
-### 🧰 Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Code-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Documentation-4B5563?style=for-the-badge"/>
-</p>
----
 
 ## 💼 Work Experience
 
