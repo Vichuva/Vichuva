@@ -76,53 +76,48 @@ Automated extraction of structured data from cheque images with real-world noise
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-`Python` `Java` `JavaScript` `SQL`
-
-### 🧠 AI / ML
-`Computer Vision` `YOLO` `OpenCV`  
-`CNNs` `OCR` `LLMs` `RAG`
-
-### ⚙️ Backend & Cloud
-`FastAPI` `Flask` `REST APIs`  
-`AWS (S3, Lambda, IAM)`  
-`Docker` `CI/CD`
-
-### 🧰 Workflow
-`Git` `Agile / Scrum` `Clean Code` `Documentation`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## 🧩 How I Build
-```mermaid
-flowchart LR
-A[Understand Problem] --> B[Design System]
-B --> C[Build Modular Components]
-C --> D[Validate & Iterate]
-D --> E[Production-Ready Solution]
-I focus on clarity, scalability, and reliability at every step.
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF005C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OCR-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-7F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge"/>
+</p>
 
-🔭 Currently Exploring
+---
 
-Advanced computer vision architectures
+### ⚙️ Backend & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge"/>
+</p>
 
-Efficient RAG pipelines
+---
 
-Scalable ML system design
+### 🧰 Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Documentation-4B5563?style=for-the-badge"/>
+</p>
 
-Production deployment & observability
-
-🎯 Career Focus
-
-I’m interested in roles involving:
-
-Software Engineering
-
-Backend / Platform Development
-
-AI/ML & Computer Vision Systems
-
-Where I can build systems that create real, measurable impact.
-
-<div align="center">
-✨ “Engineering is about making intelligence usable.”
-</div> ```
