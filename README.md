@@ -91,7 +91,7 @@ I’m a software developer with a strong foundation in **full-stack development 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vichuva&show_icons=true&hide_border=true)
 
 ---
 
