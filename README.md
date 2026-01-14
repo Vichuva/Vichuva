@@ -137,32 +137,12 @@ Automated extraction of structured data from cheque images with real-world noise
 
 ## 💼 Work Experience
 
-### 🏢 National Informatics Centre (NIC) — *AI/ML Intern*
-📍 Government of India  
-📅 May 2024 – July 2024  
+| **Role & Organization** | **Key Contributions** |
+|-------------------------|-----------------------|
+| **AI/ML Intern**<br>**National Informatics Centre (NIC)**<br><sub>Government of India</sub><br><sub>May 2024 – July 2024</sub> | • Developed a **computer vision–based vehicle detection system** for automated traffic monitoring<br>• Built an **explainable AI pipeline** for COVID-19 detection using X-ray images<br>• Focused on model interpretability, reliability, and deployment readiness |
+| **Data Analytics Intern**<br>**Hyundai Motor India Limited**<br><sub>December 2024</sub> | • Implemented **data filtering pipelines** for large-scale vehicle sensor datasets<br>• Worked with structured databases and analytics tools to extract insights<br>• Built **interactive dashboards** for real-time analytics and visualization |
+| **Software Engineering Intern**<br>**Intellect Design Arena**<br><sub>May 2025 – June 2025</sub> | • Performed **manual and mobility testing** to ensure application quality<br>• Automated selected test cases to reduce manual QA effort<br>• Gained experience with enterprise-grade software systems |
 
-- Developed a **computer vision–based vehicle detection system** for automated traffic monitoring  
-- Built an **explainable AI pipeline** for COVID-19 detection using X-ray images  
-- Focused on model interpretability, reliability, and real-world deployment readiness  
-
----
-
-### 🏭 Hyundai Motor India Limited — *Data Analytics Intern*
-📅 December 2024  
-
-- Implemented **data filtering pipelines** for large-scale vehicle sensor datasets  
-- Worked with structured databases and analytics tools to extract actionable insights  
-- Built **interactive dashboards** for real-time analytics and visualization  
-
----
-
-### 🏦 Intellect Design Arena — *Software Engineering Intern*
-📅 May 2025 – June 2025  
-
-- Performed **manual and mobility testing** to ensure application quality  
-- Automated selected test cases to reduce manual QA effort  
-- Gained hands-on experience with enterprise-grade software systems  
----
 
 ## 🧾 Patent & Research
 
