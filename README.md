@@ -6,7 +6,7 @@
 📍 Chennai, India • 🎓 CSE @ VIT Chennai  
 
 I build **intelligent, production-ready systems** that combine  
-**AI, computer vision, and scalable backend architectures**.
+**AI, system design, and scalable backend architectures**.
 
 <br/>
 
