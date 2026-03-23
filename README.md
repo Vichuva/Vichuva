@@ -46,14 +46,7 @@ I like bridging **data → intelligence → engineering**.
 A computer-vision pipeline that analyzes football match videos to extract player movements and tactical insights.
 
 ➡️ https://github.com/Vichuva/Football-Vision-Analytics  
-
----
-
-### 🤖 Schema-Aware Google Sheet Chatbot
-📌 *LLMs • RAG • DuckDB • Python*  
-An analytics assistant for spreadsheets using schema-aware RAG and deterministic execution to avoid hallucinations.
-
-➡️ https://github.com/Vichuva/Google-Sheet-Chatbot  
+ 
 
 ---
 
