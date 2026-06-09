@@ -6,18 +6,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mysql,supabase" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,postgres,supabase,docker,aws,git,linux,tensorflow,pytorch,opencv&perline=13" />
 
 </div>
