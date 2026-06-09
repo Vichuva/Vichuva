@@ -1,149 +1,41 @@
 <div align="center">
 
-# 👋 Hi, I’m **S Viswanath**
-### 🚀 Software Developer | AI/ML Engineer | Backend & Systems Builder  
+# Hi, I'm Viswa 👋
 
-📍 Chennai, India • 🎓 CSE @ VIT Chennai  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&center=true&vCenter=true&width=780&lines=Backend+Engineering;AI+%26+Machine+Learning;Computer+Vision;Cloud+%26+Distributed+Systems" />
 
-I build **intelligent, production-ready systems** that combine  
-**AI, system design, and scalable backend architectures**.
+<br>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&center=true&vCenter=true&width=780&lines=Backend+%26+Cloud+Engineering;AI+%26+ML+Engineer;RAG+%26+LLM+Systems;Computer+Vision+Developer;Turning+Ideas+Into+Impact" />
-
-<br/><br/>
-
-<a href=https://www.linkedin.com/in/viswanath-link/>
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/viswanath-link/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:viswanath2k5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-Hi! 👋  
-I’m a **systems-driven software developer** who enjoys building **real-world AI solutions** that don’t stop at demos.
+## About
 
-What I care about:
-- 🧠 End-to-end system design  
-- ⚙️ Scalable & maintainable backends  
-- 🤖 Reliable AI / ML pipelines  
-- ☁️ Cloud-native, production-ready architecture  
+Interested in backend engineering, AI/ML, and computer vision.
 
-I like bridging **data → intelligence → engineering**.
+I enjoy building software systems, experimenting with machine learning, and learning how large-scale applications are designed and operated.
 
 ---
 
-## 🌟 Highlighted Projects
+## Tech Stack
 
-### ⚽ Football Vision Analytics
-📌 *YOLO • OpenCV • Python*  
-A computer-vision pipeline that analyzes football match videos to extract player movements and tactical insights.
-
-➡️ https://github.com/Vichuva/Football-Vision-Analytics  
- 
-
----
-
-### 🚦 Intelligent Traffic Analytics Engine
-📌 *Computer Vision • Backend Systems*  
-Real-time vehicle detection and structured logging for long-term traffic pattern analysis.
-
-➡️ https://github.com/Vichuva/Intelligent-Traffic-Analytics-Engine  
-
----
-
-### 🧾 Cheque Processing using OCR
-📌 *OCR • Image Processing • Python*  
-Automated extraction of structured data from cheque images with real-world noise handling.
-
-➡️ https://github.com/Vichuva/Cheque-processing-using-OCR  
-
----
-
-## 🛠️ Tech Stack
-
----
-
-### 👨‍💻 Languages
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,postgres,fastapi,flask,docker,aws,git,linux" />
 
 </div>
 
 ---
 
-### 🧠 AI / ML
-<div align="center">
+## Patent
 
-<img src="https://img.shields.io/badge/Computer%20Vision-FF005C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-6E40C9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge"/>
-
-</div>
-
----
-
-### ⚙️ Backend & Cloud
-<div align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge"/>
-
-</div>
-
----
-
-### 🧰 Workflow
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean%20Code-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Documentation-4B5563?style=for-the-badge"/>
-
-</div>
-
-
----
-
-
-## 💼 Work Experience
-
-| **Role & Organization** | **Key Contributions** |
-|-------------------------|-----------------------|
-| **AI/ML Intern**<br>**National Informatics Centre (NIC)**<br><sub>Government of India</sub><br><sub>May 2024 – July 2024</sub> | • Developed a **computer vision–based vehicle detection system** for automated traffic monitoring<br>• Built an **explainable AI pipeline** for COVID-19 detection using X-ray images<br>• Focused on model interpretability, reliability, and deployment readiness |
-| **Data Analytics Intern**<br>**Hyundai Motor India Limited**<br><sub>December 2024</sub> | • Implemented **data filtering pipelines** for large-scale vehicle sensor datasets<br>• Worked with structured databases and analytics tools to extract insights<br>• Built **interactive dashboards** for real-time analytics and visualization |
-| **Software Engineering Intern**<br>**Intellect Design Arena**<br><sub>May 2025 – June 2025</sub> | • Performed **manual and mobility testing** to ensure application quality<br>• Automated selected test cases to reduce manual QA effort<br>• Gained experience with enterprise-grade software systems |
-
-
-## 🧾 Patent & Research
-
-### 🧠 Oil Spill Detection in Marine Ecosystem Using AIS and Satellite Datasets
-📜 **Patent Filed & Published — 2025**
-
-- Designed a system combining **satellite SAR imagery** and **AIS vessel tracking data**  
-- Applied **CNN-based analysis** for oil spill detection and anomaly identification  
-- Focused on **early detection, environmental impact reduction, and accountability**  
-
-
+**Oil Spill Detection in Marine Ecosystem Using AIS and Satellite Datasets**
+Patent Filed & Published (2025)
